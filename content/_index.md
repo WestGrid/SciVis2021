@@ -5,7 +5,7 @@ author = "Hugo Authors"
 Compute Canada is partnering with IEEE Vis to co-host the IEEE SciVis Contest in 2021. For Compute Canada it is a great
 international marketing opportunity and the ability to reach for submissions from outside Canada.
 
-We are looking for a 3D scientific dataset that can be used for this competition. The dataset should fit this criteria:
+We are looking for a 3D scientific dataset that can be used for this competition. The dataset should fit these criteria:
 
 1. The dataset must be unrestricted, public release without any IP issues.
 1. The dataset should be sufficiently challenging and potentially leading to a beautiful visualization, but easy to
