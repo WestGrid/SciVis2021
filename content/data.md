@@ -21,8 +21,7 @@ of simulation time. Each time step is 2 Myrs, and the fields are:
 
 The simulation was performed in double precision, however, to reduce the download time, we provide the data in single
 precision. Each file was saved in a NetCDF Climate and Forecast (CF) convention format, with each 3D scalar field being
-a function of latitude [degrees north], longitude [degrees east], and radius [km]. The model is based on outer radius
-6371 km.
+a function of latitude [degrees north], longitude [degrees east], and radius [km]. The model's outer radius is 6371 km.
 
 
 
@@ -70,7 +69,7 @@ a function of latitude [degrees north], longitude [degrees east], and radius [km
 
 # Accessing the Dataset
 
-Details will be published soon.
+Details will be provided soon.
 
 <!-- storage 416800580*250/1024**3 = 97.04GB -->
 

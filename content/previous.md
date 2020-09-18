@@ -4,7 +4,7 @@ aliases = ["previous"]
 author = "WestGrid"
 +++
 
-The following are the links to the IEEE Visualization Contests for respective years:
+The following are the links to the IEEE SciVis Contests for respective years:
 
 - [2020](https://kaust-vislab.github.io/SciVis2020/index.html): Transport mechanisms of eddies in the Red Sea
 - [2019](https://press3.mcs.anl.gov/2019-scivis-contest): Cosmological simulation
@@ -24,4 +24,9 @@ The following are the links to the IEEE Visualization Contests for respective ye
 - [2005](http://sciviscontest.ieeevis.org/2005): Rendering Revolution (DTI and Wind data)
 - [2004](http://sciviscontest.ieeevis.org/2004): Visualization Fusion (Atmospheric data)
 
-First Visualization Contest was held in year 2004.
+The first IEEE SciVis Contest was held in year 2004.
+
+-----------
+
+Separately, since 2016, Compute Canada has been organizing its own Canada-wide
+[*Visualize This!* competition](../visualizeThis).

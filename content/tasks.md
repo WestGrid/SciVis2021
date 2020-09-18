@@ -11,8 +11,8 @@ author = "WestGrid"
 <!-- - Visualize correlation between the transport/advection of temperature and salinity -->
 <!-- - Visualize statistics in eddies' ensembles and associated uncertainties in 3D, over time -->
 
-1. Visualize mantle avalanches (cold descending mantle material) at 660 km depth.
-1. Visualize mantle avalanches at mid-mantle (~1600 km) depths.
+1. Visualize mantle cold slabs (descending mantle material) at 660 km depth. <!-- avalanches -->
+1. Visualize mantle cold slabs at mid-mantle (~1600 km) depths. <!-- avalanches -->
 1. Visualize stagnated or diverted hot plumes (rising hot mantle material) at mid-mantle depths and their rise to the
    upper mantle.
 1. Visualize stagnated or diverted hot plumes at 660 km depth.
@@ -33,7 +33,7 @@ km which has been known for the past few decades. The latter are due to the iron
 minerals starting at ~1500 km depth.
 
 The best way to track these two physical processes is by using the <ins>temperature anomaly</ins>. For the phase
-transition at (660±10) km depth, you can look at depths above and below 660 km. Above this depth you can look for cold,
+transition at (660±10) km depth, you can look at depths above and below 660 km. Above this depth check for cold,
 horizontally-extended material. Below this depth the hot rising material may be stagnated for a while before rising
 above 600 km.
 

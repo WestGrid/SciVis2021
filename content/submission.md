@@ -6,7 +6,7 @@ aliases = ["submission"]
 author = "WestGrid"
 +++
 
-Details will be announced shortly.
+Details will be provided shortly.
 
 <!-- Your submission should include: -->
 
@@ -42,16 +42,16 @@ The approximate timeline is:
 
 | Date | Event |
 | -- | -- |
-| late October, 2020 | official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020 |
-| July 31, 2021 | deadline for Contest entry submissions|
-| September 10, 2021 | winning team notification |
-| late October, 2021 | official announcement of the results at IEEE Vis 2021 |
+| Late October, 2020 | Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020 |
+| July 31, 2021 | Deadline for Contest entry submissions|
+| September 10, 2021 | Winning team notification |
+| Late October, 2021 | Official announcement of the results at IEEE Vis 2021 |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
 
 # Judges
 
-Details will be announced shortly.
+Details will be provided shortly.
 
 <!-- \*\*\* -->
 
