@@ -77,12 +77,13 @@ merge together and eventually reach the upper levels of the lower mantle as *sup
 
 
 
+{{< vimeo 459406913 >}}
 
-<div class="flex-video">
-	<iframe width="760" height="505" src="https://player.vimeo.com/video/459406913" frameborder="0"
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-	allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
-</div>
+<!-- <div class="flex-video"> -->
+<!-- 	<iframe width="760" height="505" src="https://player.vimeo.com/video/459406913" frameborder="0" -->
+<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
+<!-- 	allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe> -->
+<!-- </div> -->
 
 <p style="line-height: 1.2;"> <font size="3"> <b>Figure 1:</b> Temperature and velocity over the first 200 Myrs of the
 simulation. Click <a href="https://vimeo.com/459406913" target="_blank">here</a> to watch this video directly on
