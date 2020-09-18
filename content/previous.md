@@ -1,7 +1,7 @@
 +++
 title = "Previous Contests"
 aliases = ["previous"]
-author = "Hugo Authors"
+author = "WestGrid"
 +++
 
 The following are the links to the IEEE Visualization Contests for respective years:

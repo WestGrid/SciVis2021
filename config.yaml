@@ -9,21 +9,31 @@ enableRobotsTXT: true
 
 menu:
   main:
-  # - identifier: data
-  #   name: Data
-  #   title: Data
-  #   url: /data/
-  #   weight: 2
+  - identifier: data
+    name: Data
+    title: Data
+    url: /data/
+    weight: 2
+  - identifier: tasks
+    name: Tasks
+    title: Tasks
+    url: /tasks/
+    weight: 3
+  - identifier: submission
+    name: Submission
+    title: Submission
+    url: /submission/
+    weight: 4
   - identifier: previous
     name: Previous Contests
     title: Previous Contests
     url: /previous/
-    weight: 3
+    weight: 5
   - identifier: contact
     name: "📬"
     title: Contact
     url: /contact/
-    weight: 4
+    weight: 6
 
 params:
   author: ""

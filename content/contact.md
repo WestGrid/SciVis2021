@@ -3,7 +3,7 @@ title = "Contact"
 # description = "Hugo, the world’s fastest framework for building websites"
 # date = "2019-02-28"
 aliases = ["contact"]
-author = "Hugo Authors"
+author = "WestGrid"
 +++
 
 The SciVis Contest 2021 is organized by [Compute Canada](https://www.computecanada.ca). Main contact is
