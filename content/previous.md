@@ -28,5 +28,9 @@ The first IEEE SciVis Contest was held in 2004.
 
 -----------
 
-Separately, since 2016, Compute Canada has been organizing its own Canada-wide
-[*Visualize This!* competition](../visualizeThis).
+Separately, since 2016, Compute Canada has been organizing its own Canada-wide *Visualize This!* competition:
+
+- [2019](../2019): Incompressible transitional air flow over a wind turbine section
+- [2018](../2018): Interaction of a large protein structure with a cell's membrane <ins>and</ins> Linked humanities data
+- [2017](../2017): Airflow around counter-rotating wind turbines
+- [2016](../2016): Visualizing multiple variables in a global ocean model
