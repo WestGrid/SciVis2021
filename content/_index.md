@@ -7,17 +7,24 @@ author = "WestGrid"
 *The 2021 IEEE SciVis Contest is dedicated to creating novel approaches and state-of-the-art visualizations to assist
 domain scientists to better understand the convection processes in the Earth's mantle.*
 
+<br>
+
+{{< vimeo 459406913 >}}
+<p style="line-height: 1.2;"> <font size="3"> <b>Figure 1:</b> Temperature and velocity over the first 200 Myrs of the
+simulation. Click <a href="https://vimeo.com/459406913" target="_blank">here</a> to watch this video directly on
+Vimeo. </font> </p>
+
 #### Science background
 
 Mid-mantle stagnation of sinking slabs is prevalent globally in seismic tomographic images. However, the existence of
 such high velocity anomalies at different depths in the lower mantle is not fully explained.
 
 One possibility is that the iron spin transition (theoretically predicted by Fyfe in 1960) in the lower-mantle minerals
-can influence their density, thermal conductivity, thermal expansivity and bulk modulus (resistance to
-compression). Both theoretical and experimental studies in the past two decades reveal that in the most abundant
-lower-mantle minerals -- aluminous silicate perovskite Al-(Mg,Fe)SiO3 and ferropericlase (Mg,Fe)O (with the respective
-volumetric contributions of ~62% and ~33% in the lower mantle) -- iron undergoes a transition from high spin in the
-mid-mantle to low spin at the bottom of the mantle.
+can influence their density, thermal conductivity, thermal expansivity and bulk modulus (resistance to compression). The
+most abundant lower-mantle materials are **aluminous silicate perovskite Al-(Mg,Fe)SiO3** and **ferropericlase
+(Mg,Fe)O**, with the respective volumetric contributions of ~62% and ~33%. Both theoretical and experimental studies in
+the past two decades reveal that in these two minerals iron undergoes a transition from high spin in the mid-mantle to
+low spin at the bottom of the mantle.
 
 <!-- While there is a monotonic increase in the mantle density due to the electronic transition in Fe from mid-mantle to the -->
 <!-- core-mantle boundary (CMB), the influence of spin transition at mid-mantle depths is complex. In ferropericlase the -->
@@ -77,17 +84,6 @@ merge together and eventually reach the upper levels of the lower mantle as *sup
 
 
 
-{{< vimeo 459406913 >}}
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="760" height="505" src="https://player.vimeo.com/video/459406913" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe> -->
-<!-- </div> -->
-
-<p style="line-height: 1.2;"> <font size="3"> <b>Figure 1:</b> Temperature and velocity over the first 200 Myrs of the
-simulation. Click <a href="https://vimeo.com/459406913" target="_blank">here</a> to watch this video directly on
-Vimeo. </font> </p>
 
 
 
