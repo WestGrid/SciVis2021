@@ -63,8 +63,10 @@ merge together and eventually reach the upper levels of the lower mantle as *sup
 
 #### References
 
-- M. H. Shahnas, D. A. Yuen, R. N. Pysklywec (2017): [Mid-mantle heterogeneities and iron spin transition in the lower mantle: Implications for mid-mantle slab stagnation](http://dx.doi.org/10.1016/j.epsl.2016.10.052). Earth and Planetary Science Letters **458**, 293–304
+- M. H. Shahnas, W. R. Peltier, Z. Wu, R. Wentzcovitch (2011): [The high pressure electronic spin transition in iron: potential impacts upon mantle mixing](http://dx.doi.org/10.1029/2010JB007965). J. geophys. Res. **116**, B08205
 - M. H. Shahnas, R. N. Pysklywec, and D. A. Yuen (2016): [Spawning superplumes from the mid-mantle: the impact of spin transitions in the mantle](https://doi.org/10.1002/2016GC006509). Geochemistry, Geophysics, Geosystems **17**, 4051-4063
+- M. H. Shahnas, D. A. Yuen, R. N. Pysklywec (2017): [Mid-mantle heterogeneities and iron spin transition in the lower mantle: Implications for mid-mantle slab stagnation](http://dx.doi.org/10.1016/j.epsl.2016.10.052). Earth and Planetary Science Letters **458**, 293–304
+
 
 
 
@@ -74,9 +76,6 @@ merge together and eventually reach the upper levels of the lower mantle as *sup
 <!-- - Shahnas, M.H., W. R. Peltier, (2015), The impacts of mantle phase transitions and the iron spin crossover in -->
 <!--   ferropericlase on convective mixing—is the evidence for compositional convection definitive? New results from a -->
 <!--   Yin-Yang overset grid-based control volume model, Journal of Geophysical Research-Solid Earth, 10.1002/2015JB012064. -->
-
-<!-- - Shahnas, M.H., W. R. Peltier, Z. Wu, and R.Wentzcovitch, (2011), The High Pressure Electronic Spin Transition in Iron: -->
-<!--   Potential Impacts upon Mantle Mixing, Journal of Geophysical Research, Vol. 116, B08205, doi:10.1029/2010JB007965. -->
 
 <!-- - Shahnas, M.H. et al., (2011), The High Pressure Electronic Spin Transition in Iron: Potential Impacts upon Mantle -->
 <!--   Mixing, Research Highlights, Nature Geoscience, Vol. 4. -->
