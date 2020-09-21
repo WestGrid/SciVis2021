@@ -19,7 +19,7 @@ of simulation time. Each time step is 2 Myrs, and the fields are:
 - temperature anomaly [degrees K], and
 - (spin transition-induced) density anomaly [kg/m^3].
 
-The simulation was performed in double precision, however, to reduce the download time, we provide the data in single
+The simulation was performed in double precision, however, to reduce downloading time, we provide the data in single
 precision. Each file was saved in a NetCDF Climate and Forecast (CF) convention format, with each 3D scalar field being
 a function of latitude [degrees north], longitude [degrees east], and radius [km]. The model's outer radius is 6371 km.
 
@@ -55,7 +55,7 @@ a function of latitude [degrees north], longitude [degrees east], and radius [km
 
 - M. H. Shahnas, D. A. Yuen, R.N. Pysklywec: [Mid-mantle heterogeneities and iron spin transition in the lower mantle: Implications for mid-mantle slab stagnation](http://dx.doi.org/10.1016/j.epsl.2016.10.052). Earth and Planetary Science Letters **458**, 293–304, 2017
 - M. H. Shahnas, R. N. Pysklywec, and D. A. Yuen: [Spawning superplumes from the midmantle: The impact of spin transitions in the mantle](https://doi.org/10.1002/2016GC006509). Geochemistry, Geophysics, Geosystems **17**, 4051-4063, 2016
-- [http://www.atmosp.physics.utoronto.ca/~shahnas/htmls/Research.htm](Research page)
+- [Researcher's page](http://www.atmosp.physics.utoronto.ca/~shahnas/htmls/Research.htm) at the University of Toronto
 
 
 
