@@ -127,9 +127,9 @@ Alternatively, you can use the traditional netCDF4 Python interface:
 ~~~
 import netCDF4 as nc
 all = nc.Dataset('spherical001.nc', 'r')
-print(all)                            # show all variables inside this dataset
-all.variables['temperature'][:,:,:]   # this is a 180x201x360 numpy array
-all.variables['r'][:]                 # radial discretization
+print(all)                                   # show all variables inside this dataset
+print(all.variables['temperature'][:,:,:])   # this is a 180x201x360 numpy array
+print(all.variables['r'][:])                 # radial discretization
 ~~~
 
 # Acknowledgments
