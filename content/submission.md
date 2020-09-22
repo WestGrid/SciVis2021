@@ -53,8 +53,18 @@ The approximate timeline is:
 
 Details will be provided shortly.
 
-<!-- \*\*\* -->
+<!-- - Alex Razoumov, Visualization Specialist, WestGrid / Compute Canada -->
+<!-- - Weiguang, HPC Analyst, SHARCNET / Compute Canada -->
+<!-- - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto -->
+<!-- - how about Marcelo? -->
+<!-- - how about Thomas Theußl and Silvio Rizzi, and anyone they could enlist -->
 
+
+
+
+
+
+<!-- 2020 panel: -->
 <!-- - Thomas Theußl, Visualization Scientist, King Abdullah University of Science and Technology. -->
 <!-- - Madhu Srinivasan, Scientist - Visualization and Machine Learning, Hewlett Packard Enterprise. -->
 <!-- - Guoning Chen. Associate Professor, University of Houston. -->

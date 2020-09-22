@@ -70,9 +70,20 @@ a function of latitude [degrees north], longitude [degrees east], and radius [km
 
 # Accessing the Dataset
 
-Details will be provided soon.
+Details will be provided at the end of October 2020.
+
+
+<!-- The 250 steps are grouped into 25 gzipped tar files mantle{01..25}.tgz (3.2GB each), the first file containing -->
+<!-- spherical{001..010}.nc, the second file containing spherical{011..020}.nc, and so on. -->
 
 <!-- storage 416800580*250/1024**3 = 97.04GB -->
+
+<!-- After you have downloaded some or all .tgz files you can check against the provided md5 -->
+<!-- checksum to see if the download succeeded. -->
+
+
+
+
 
 <!-- Download the data from here: -->
 <!-- Data Repository -->
@@ -81,9 +92,6 @@ Details will be provided soon.
 <!-- You can either download all ensembles plus the bathymetry in a zipped archive (~64GB) by pressing the "Download" button -->
 <!-- on the upper right, or as individual files. Each ensemble member extracts to one netcdf file (~32GB), the whole data set -->
 <!-- extracts to approximately 1.5 TB. -->
-
-<!-- After you have downloaded some or all ensmeble members as .tgz files you can check against the provided md5 -->
-<!-- checksum to see if the download succeeded. -->
 
 # Loading the Data in ParaView
 
@@ -102,7 +110,17 @@ where we recommend to change the scaling to [nm/s] to avoid dealing with very sm
 <!-- requires ParaView 5.7 or later). Run ParaView from the directory where the data was extracted (i.e., containing the -->
 <!-- Folder SciVisContest2020), or update the file names, and load the script as a state. -->
 
-<!-- For information on the staggered grid, see http://mitgcm.org/sealion/online_documents/manual.pdf (Chapter 2.10.5, FIgure 2.9). -->
+# Loading the Data into Python
+
+In Python you can read each time step into an `xarray.Dataset` containing multiple variables:
+
+~~~
+import xarray as xr
+data = xr.open_dataset('spherical001.nc')
+print(data)                         # show all variables inside this dataset
+print(data.temperature.values)      # this is a 180x201x360 numpy array
+print(data.r)                       # radial discretization
+~~~
 
 # Acknowledgments
 
