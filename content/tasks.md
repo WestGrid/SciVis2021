@@ -63,17 +63,18 @@ them.
 <!-- lower mantle minerals at 1600 km when looking only at the 3D data, besides obviously the depth? Is there anything in the -->
 <!-- 3D variables that you gave me that can distinguish the two types of transitions? -->
 
+<br>
 
-![Temperature and density anomalies](../images/dT-dRho.jpg)
+![Temperature and density anomalies](../images/dTdRho.png)
 
 <!-- <img src="../images/dT-dRho.jpg" alt="Temperature and density anomalies" style="float: left; margin-right: 10px;" /> -->
 
 <p style="line-height: 1.2;"> <font size="3"> <b>Figure 2:</b> Temperature anomaly (left) and the corresponding spin
-transition-induced density anomaly (right) at three different timesteps in a cross-section and at the inner
-boundary. You can clearly see the zones (depths) where the descending cold slab becomes lighter/heavier causing
-stagnation/acceleration of the slab. You can see similar effects in the hot rising plumes. These effects can cause plume
-or slab stagnation at mid-mantle depths with subsequent sudden avalanches. Figure courtesy of Hosein Shahnas. </font>
-</p>
+transition-induced density anomaly (right) at two timesteps separated by 20 Myrs (earlier at the top) in a cross-section
+and at the inner, core-mantle boundary. You can clearly see a descending cold slab that becomes heavier (blue region on
+the right) causing its downward acceleration (bottom left panel). You can see similar effects in the hot rising
+plumes. These and opposite effects can cause plume or slab stagnation at mid-mantle depths with subsequent sudden
+avalanches. </font> </p>
 
 
 

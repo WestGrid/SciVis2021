@@ -55,6 +55,7 @@ Details will be provided shortly.
 
 <!-- - Alex Razoumov, Visualization Specialist, WestGrid / Compute Canada -->
 <!-- - Weiguang, HPC Analyst, SHARCNET / Compute Canada -->
+<!-- - Yohai Meiron, HPC Analyst, SciNet / Compute Canada -->
 <!-- - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto -->
 <!-- - how about Marcelo? -->
 <!-- - how about Thomas Theußl and Silvio Rizzi, and anyone they could enlist -->
