@@ -34,9 +34,9 @@ low spin at the bottom of the mantle.
 <!-- hardening (increase in the bulk modulus) in the mineral in the mixed spin state. -->
 
 Numerical studies suggest that the overall impact of the changes in the properties of ferropericlase and perovskite can
-be such that a descending cold slab approaching the mid-mantle at ~1600 km depth gains negative buoyancy (decrease in
+be such that a descending cold slab approaching the mid-mantle at ~1600 km depth gains positive buoyancy (decrease in
 density) that can slow the slab's descent rate or cause its stagnation. A stagnated slab may eventually penetrate into
-the lower mantle (where it gains positive buoyancy) in the form of a sudden spin-transition induced mid-mantle avalanche
+the lower mantle (where it gains negative buoyancy) in the form of a sudden spin-transition induced mid-mantle avalanche
 (SIMMA). On the other hand, the rising hot plumes from the core-mantle boundary that are slightly lighter due to the
 spin-transition effects in the lower mantle become slightly heavier at the mid-mantle depths. This in turn may slow the
 plumes or cause their stagnation at ~1600 km depth. Stagnated plumes may merge together and eventually reach the upper
