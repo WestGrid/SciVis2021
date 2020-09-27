@@ -11,11 +11,11 @@ author = "WestGrid"
 <!-- - Visualize correlation between the transport/advection of temperature and salinity -->
 <!-- - Visualize statistics in eddies' ensembles and associated uncertainties in 3D, over time -->
 
-1. Visualize mantle cold slabs (descending mantle material) at 660 km depth. <!-- avalanches -->
-1. Visualize mantle cold slabs at mid-mantle (~1600 km) depths. <!-- avalanches -->
-1. Visualize stagnated or diverted hot plumes (rising hot mantle material) at mid-mantle depths and their rise to the
-   upper mantle.
-1. Visualize stagnated or diverted hot plumes at 660 km depth.
+1. Visualize stagnated or diverted cold slabs (descending mantle material) at ~660 km (upper and lower mantle boundary) depth. <!-- avalanches -->
+1. Visualize stagnated or diverted cold slabs at ~1600 km (mid-mantle) depth. <!-- avalanches -->
+1. Visualize stagnated or diverted hot plumes (rising hot mantle material) at ~1600 km depth and their rise to the upper
+   regions of the lower mantle.
+1. Visualize stagnated or diverted hot plumes at ~660 km depth.
 1. Visualize correlations between the variables and the flow patterns described below.
 
 Additional points will be given for:
@@ -71,12 +71,10 @@ them.
 
 <p style="line-height: 1.2;"> <font size="3"> <b>Figure 2:</b> Temperature anomaly (left) and the corresponding spin
 transition-induced density anomaly (right) at two timesteps separated by 20 Myrs (earlier at the top) in a cross-section
-and at the inner, core-mantle boundary. You can clearly see a descending cold slab that becomes heavier (blue region on
-the right) causing its downward acceleration (bottom left panel). You can see similar effects in the hot rising
-plumes. These and opposite effects can cause plume or slab stagnation at mid-mantle depths with subsequent sudden
-avalanches. </font> </p>
-
-
+and at the inner, core-mantle boundary. You can see a descending cold slab that becomes first lighter and then heavier
+(red and blue regions on the right panels) which can initially slow and then accelerate the mantle flow at mid-mantle
+depths (bottom left panel). You can see similar effects in the hot rising plumes. These two effects can cause plume or
+slab stagnation at mid-mantle depths with subsequent sudden avalanches. </font> </p>
 
 <!-- The spin transition-induced density for the model I have sent you is based D4 in Table 2 in the attached paper. In order to calculate the spin transition-induced density anomaly, we calculate the laterally average of this density and subtract it from the spin transition-induced density (i.e. anomaly = dRho - dRho_ave) (see the four lines at the bottom of page 5 in this paper).
 <!-- For depths above ~1500 km there is no spin transition, and therefore no spin transition-induced density (and hence no density anomaly). -->

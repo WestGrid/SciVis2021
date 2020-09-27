@@ -33,30 +33,19 @@ low spin at the bottom of the mantle.
 <!-- perovskite (Pv) phase, the spin transition in the octahedral (B) site in Al-free perovskite causes a bulk modulus -->
 <!-- hardening (increase in the bulk modulus) in the mineral in the mixed spin state. -->
 
-The overall impact of the changes in the properties of ferropericlase and perovskite is such that a descending cold slab
-approaching the mid-mantle at ~1600 km depth gains negative buoyancy (decrease in density) that can slow the slab's
-descent rate or cause its stagnation. A stagnated slab may eventually penetrate the lower mantle in the form of a sudden
-spin-transition induced mid-mantle avalanche (SIMMA). On the other hand, the rising hot plumes from the core-mantle
-boundary that are slightly lighter due to the spin-transition effects in the lower mantle become slightly heavier at the
-mid-mantle depths. This in turn may slow the plumes or cause their stagnation at ~1600 km depth. Stagnated plumes may
-merge together and eventually reach the upper levels of the lower mantle as *superplumes*.
+Numerical studies suggest that the overall impact of the changes in the properties of ferropericlase and perovskite can
+be such that a descending cold slab approaching the mid-mantle at ~1600 km depth gains negative buoyancy (decrease in
+density) that can slow the slab's descent rate or cause its stagnation. A stagnated slab may eventually penetrate into
+the lower mantle (where it gains positive buoyancy) in the form of a sudden spin-transition induced mid-mantle avalanche
+(SIMMA). On the other hand, the rising hot plumes from the core-mantle boundary that are slightly lighter due to the
+spin-transition effects in the lower mantle become slightly heavier at the mid-mantle depths. This in turn may slow the
+plumes or cause their stagnation at ~1600 km depth. Stagnated plumes may merge together and eventually reach the upper
+levels of the lower mantle as *superplumes*.
 
 
 
 
 
-<!-- Thomas: Eddies are clockwise or counter-clockwise circular movements of water that play a major role in transporting -->
-<!-- energy and biogeochemical particles in the ocean. We use a high-resolution Massachusetts Institute of Technology general -->
-<!-- circulation model (MITgcm), together with remote sensing satellite observations, to simulate and study the circulation -->
-<!-- dynamics and to investigate the eddy activities of the Red Sea. Given the narrow nature of the basin, many eddies can -->
-<!-- occupy more than half of the Red Sea width, providing rapid transport of organisms and nutrients along the coastline and -->
-<!-- between the african and Arabian Peninsula coasts. These marine ‘whirlpools’ are much more frequent than what had been -->
-<!-- previously thought, profoundly affecting the social and economic lives of people living in the surrounding countries. -->
-<!-- Thomas: Advanced visualization techniques should enable for better detection capabilities and deeper knowledge of how -->
-<!-- regularly these eddies occur and how they behave. This will, in particular, help investigating oceanic dynamics across -->
-<!-- different scales and improve local ocean forecasts, as well as provide tools for the coastguard to undertake -->
-<!-- search-and-rescues, the authorities to plan for oil spills responses or concentrate discharges, and to formulate -->
-<!-- conservation plans. -->
 
 
 
@@ -79,54 +68,3 @@ merge together and eventually reach the upper levels of the lower mantle as *sup
 
 <!-- - Shahnas, M.H. et al., (2011), The High Pressure Electronic Spin Transition in Iron: Potential Impacts upon Mantle -->
 <!--   Mixing, Research Highlights, Nature Geoscience, Vol. 4. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Compute Canada is partnering with IEEE Vis to co-host the IEEE SciVis Contest in 2021. For Compute Canada it is a great -->
-<!-- international marketing opportunity and the ability to reach for submissions from outside Canada. -->
-
-<!-- We are looking for a 3D scientific dataset that can be used for this competition. The dataset should fit these criteria: -->
-
-<!-- 1. The dataset must be unrestricted, public release without any IP issues. -->
-<!-- 1. The dataset should be sufficiently challenging and potentially leading to a beautiful visualization, but easy to -->
-<!--    understand for non-domain specialists. -->
-<!-- 1. The dataset cannot be too large, so that one does not require HPC resources to analyze/visualize it. A time-dependent -->
-<!--    simulation where each timestep is under ~4-8 GB is probably Ok. -->
-<!-- 1. Ideally, the data should be from a domain different from the [last few IEEE SciVis contests](../previous). -->
-
-<!-- If you a researcher with an interesting dataset for this Contest, or you recently worked with a researcher who you think -->
-<!-- might have such a dataset, please [let us know](mailto:alex.razoumov@westgrid.ca). -->
-
-<!-- <\!-- The details -- dataset, timeline, website -- of the 2021 Contest will be announced at the IEEE Vis conference (online -\-> -->
-<!-- <\!-- this year) in October 2020. So, over the next 1.5 months we need your help to reach out to Compute Canada researchers -\-> -->
-<!-- <\!-- running numerical simulations to find several good dataset candidates and then pick one for this competition. -\-> -->
-
-<!-- <\!-- IEEE has been running their Visualization Contests since 2004, while Compute Canada has been running the Visualize This -\-> -->
-<!-- <\!-- challenge since 2016. This joint contest is an exciting way to combine our efforts for one year in 2021.  -\-> -->
-
-<!-- --- -->
-
-<!-- **Benefits for domain scientists:** -->
-
-<!-- 1. An opportunity to advertise your work both in Canada and internationally: -->
-<!--     1. the challenge will be presented at the IEEE Vis Conference 2020 (online), -->
-<!--     1. the dataset will be described on our website, -->
-<!--     1. there will be a separate session at IEEE Vis 2021 (October next year) dedicated to the results of the Contest, and -->
-<!--     1. the winner will be invited to submit a paper on their visualization technique to IEEE Computer Graphics and -->
-<!--        Applications (see the 2019 paper [here](https://ieeexplore.ieee.org/document/9126163)). -->
-<!-- 1. You will have someone create a stunning visualization showcasing your research. -->
-<!-- 1. This is a chance to crowdsource innovative visualization ideas and to apply new visualization techniques to your data. -->
-
-<!-- The domain scientist will provide the dataset along with some background material (how to work with the data and the -->
-<!-- problem description), will help us define the visualization-related tasks, and will also help in judging all -->
-<!-- submissions. -->

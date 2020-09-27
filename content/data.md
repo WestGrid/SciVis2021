@@ -6,8 +6,8 @@ aliases = ["data"]
 author = "WestGrid"
 +++
 
-The dataset consists of a time series (250 steps) of 3D scalar fields on a spherical 180x201x360 grid covering 500 Myr
-of simulation time. Each time step is 2 Myrs, and the fields are:
+The dataset consists of a time series (251 steps) of 3D scalar fields on a spherical 180x201x360 grid covering 500 Myr
+of geological time. Each time step is 2 Myrs, and the fields are:
 
 <!-- I can provide data as much as you want, but I think 500 Myr (250 frames) would be enough. By Monday (today and Monday -->
 <!-- included) we have 6 days, so I will give you ~6x40 frames. -->
@@ -21,8 +21,8 @@ of simulation time. Each time step is 2 Myrs, and the fields are:
 
 The simulation was performed in double precision, however, to reduce downloading time, we provide the data in single
 precision. Each file was saved in a NetCDF Climate and Forecast (CF) convention format, with each 3D scalar field being
-a function of latitude [degrees north], longitude [degrees east], and radius [km]. The model's outer radius is 6371 km.
-
+a function of latitude [degrees north], longitude [degrees east], and radius [km]. The model's inner and outer radii are
+3485 km and 6371 km, respectively.
 
 
 
