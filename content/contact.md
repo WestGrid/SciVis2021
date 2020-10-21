@@ -16,5 +16,5 @@ Srinivasan (Hewlett Packard Enterprise).
 The Contest website is https://scivis2021.netlify.app
 
 All communication will be via the Google group  
-https://groups.google.com/forum/#!forum/sciviscontest2021. Please email the main contat at the address above to be added
-to the group, to be able to post and read messages.
+https://groups.google.com/forum/#!forum/sciviscontest2021. To be able to post and read messages, please email the main
+contact (AR) at the address above to be added to the group.
