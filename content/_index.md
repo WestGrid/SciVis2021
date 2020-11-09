@@ -5,7 +5,12 @@ author = "WestGrid"
 <font size="6"> SciVis Contest 2021: Earth's Mantle Convection </font>
 
 *The 2021 IEEE SciVis Contest is dedicated to creating novel approaches and state-of-the-art visualizations to assist
-domain scientists to better understand the convection processes in the Earth's mantle.*
+domain scientists to better understand the convection processes in the Earth's mantle. Contest participants will be
+invited to present at the special SciVis Contest session at IEEE Vis 2021 on October 23 - 28, 2021 [^1]. The contest is
+sponsored by [IEEE Vis](http://ieeevis.org) and [Compute Canada](https://www.computecanada.ca).*
+
+[^1]: IEEE Vis 2021 will take place either in New Orleans, Louisiana, USA or virtually (online as in 2020), depending on
+the developing pandemic situation.
 
 <br>
 

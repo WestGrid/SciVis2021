@@ -23,6 +23,10 @@ Additional points will be given for:
 - best cover visualization, and
 - best representation of the 3D velocity field.
 
+The slice visualization below and the [front-page](/) animation were produced with very simple ParaView workflows. The
+overall goals of this contest is to produce better visualizations than these and to come up with novel analysis
+techniques and ideas that are unique to the problem.
+
 <!-- These are the most important outcomes of this modeling and study. -->
 
 #### Physical variables and the flow patterns

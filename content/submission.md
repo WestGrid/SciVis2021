@@ -34,6 +34,15 @@ Details will be provided shortly.
 <!-- The review process will be single or double blind, we leave it to the discretion of the authors whether they want to -->
 <!-- disclose their identity in their submissions. -->
 
+# Prizes
+
+We will provide prizes to the winning team(s) -- one prize per team. Compute Canada's *Visualize This!* past prizes
+included 4K monitors and SSD drives.
+
+<!-- All submissions, subject to review, will be featured in the conference USB stick. -->
+
+<!-- A poster at the conference for the winning entry. Depending on availability, other teams may be invited to submit a poster. -->
+
 # Dates
 
 <!-- We will be following the process of the last years. There might be slight changes but the plan is this: -->
@@ -59,6 +68,7 @@ Details will be provided shortly.
 <!-- - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto -->
 <!-- - how about Marcelo? -->
 <!-- - how about Thomas Theußl and Silvio Rizzi, and anyone they could enlist -->
+<!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
 
 
 
