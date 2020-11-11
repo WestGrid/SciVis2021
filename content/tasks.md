@@ -27,6 +27,9 @@ The slice visualization below and the [front-page](/) animation were produced wi
 overall goals of this contest is to produce better visualizations than these and to come up with novel analysis
 techniques and ideas that are unique to the problem.
 
+You can check the IEEE SciVis Contest [2020 session](https://kaust-vislab.github.io/SciVis2020/results.html) to see
+previous year's winning entries.
+
 <!-- These are the most important outcomes of this modeling and study. -->
 
 #### Physical variables and the flow patterns

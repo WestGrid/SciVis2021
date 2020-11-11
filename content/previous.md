@@ -7,6 +7,7 @@ author = "WestGrid"
 The following are the links to the IEEE SciVis Contests for the respective years:
 
 - [2020](https://kaust-vislab.github.io/SciVis2020/index.html): Transport mechanisms of eddies in the Red Sea
+  - check the [Results](https://kaust-vislab.github.io/SciVis2020/results.html) section to see the winning entry
 - [2019](https://press3.mcs.anl.gov/2019-scivis-contest): Cosmological simulation
 - [2018](http://sciviscontest.ieeevis.org/2018): Deep water asteroid impacts
 - [2017](http://sciviscontest.ieeevis.org/2017): Clouds and Atmospheric Processes
