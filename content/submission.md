@@ -53,7 +53,7 @@ The approximate timeline is:
 | -- | -- |
 | Late October, 2020 | Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020 |
 | July 31, 2021 | Deadline for Contest entry submissions|
-| September 10, 2021 | Winning team notification |
+| August 31, 2021 | Winning team notification |
 | Late October, 2021 | Official announcement of the results at IEEE Vis 2021 |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
