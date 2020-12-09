@@ -77,7 +77,7 @@ project, you can download only `mantle01.tgz`, but for a production-quality anim
 
 <br>
 
-| File   |  Timestep range   |    Size      |  Checksum |
+| File   |  Timestep range   |    Size      |  MD5 checksum |
 |----------|-------------|------|----------|
 | [mantle01.tgz](https://nextcloud.computecanada.ca/index.php/s/edS6be3sk8oQ58N/download) | 001..010 | 3.2GB | 6aa435a58ac9487f48291c363eccde6e |
 | [mantle02.tgz](https://nextcloud.computecanada.ca/index.php/s/infBBW2Rc9TJwf7/download) | 011..020 | 3.2GB | dbc46f9cffb665a5bccfc95a4a864079 |
