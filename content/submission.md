@@ -6,14 +6,7 @@ aliases = ["submission"]
 author = "WestGrid"
 +++
 
-
-
-
-
-
-
-Ideally, all submissions should be reproducible and use only open-source tools, so that anyone could benefit from your
-work. We will post the submission guidelines as we get closer to July-31 submission deadline (see below).
+We will post the submission guidelines as we get closer to July-31 submission deadline (see below).
 
 
 
