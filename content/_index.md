@@ -6,8 +6,13 @@ author = "WestGrid"
 
 *The 2021 IEEE SciVis Contest is dedicated to creating novel approaches and state-of-the-art visualizations to assist
 domain scientists to better understand the convection processes in the Earth's mantle. Contest participants will be
-invited to present at the special SciVis Contest session at IEEE Vis 2021 on October 23 - 28, 2021 [^1]. The contest is
-sponsored by [IEEE Vis](http://ieeevis.org) and [Compute Canada](https://www.computecanada.ca).*
+invited to present at the special SciVis Contest session at IEEE Vis 2021 on October 23 - 28, 2021 [^1], and the top
+team will be invited to submit a full journal article (with an expedited review process) to the IEEE Computer Graphics
+and Applications Journal. The contest is sponsored by [IEEE Vis](http://ieeevis.org) and
+[Compute Canada](https://www.computecanada.ca).*
+
+<!-- A poster at the conference for the winning entry. Depending on availability, other teams may get a poster. This has to -->
+<!-- be coordinated with the respective poster chairs and will be offered at their discretion. -->
 
 [^1]: IEEE Vis 2021 will take place either in New Orleans, Louisiana, USA or virtually (online as in 2020), depending on
 the developing pandemic situation.
@@ -18,6 +23,9 @@ the developing pandemic situation.
 <p style="line-height: 1.2;"> <font size="3"> <b>Figure 1:</b> Temperature and velocity over the first 200 Myrs of the
 simulation. Click <a href="https://vimeo.com/459406913" target="_blank">here</a> to watch this video directly on
 Vimeo. </font> </p>
+
+
+
 
 #### Science background
 
@@ -46,10 +54,6 @@ the lower mantle (where it gains negative buoyancy) in the form of a sudden spin
 spin-transition effects in the lower mantle become slightly heavier at the mid-mantle depths. This in turn may slow the
 plumes or cause their stagnation at ~1600 km depth. Stagnated plumes may merge together and eventually reach the upper
 levels of the lower mantle as *superplumes*.
-
-
-
-
 
 
 

@@ -6,12 +6,19 @@ aliases = ["submission"]
 author = "WestGrid"
 +++
 
-Details will be provided shortly.
+
+
+
+
+
+
+Ideally, all submissions should be reproducible and use only open-source tools, so that anyone could benefit from your
+work. We will post the submission guidelines as we get closer to July-31 submission deadline (see below).
+
+
+
 
 <!-- Your submission should include: -->
-
-<!-- \*\*\* -->
-
 <!-- - A 2-page PDF describing your visualization and analysis techniques. Focus on the techniques you used and results you -->
 <!--   obtained. Do not waste space on background information or data descriptions. Please follow the formatting guidelines -->
 <!--   for the manuscript. (you can download LaTeX and Word templates from this site). -->
@@ -22,9 +29,6 @@ Details will be provided shortly.
 <!--   action. This will be most helpful for demonstrating the effectiveness of your approach. -->
 
 <!-- To submit: -->
-
-<!-- \*\*\* -->
-
 <!-- - Visit https://new.precisionconference.com -->
 <!-- - Sign in or create an account -->
 <!-- - Read and accept the privacy policy and terms and conditions -->
@@ -33,6 +37,11 @@ Details will be provided shortly.
 
 <!-- The review process will be single or double blind, we leave it to the discretion of the authors whether they want to -->
 <!-- disclose their identity in their submissions. -->
+
+
+
+
+
 
 # Prizes
 
@@ -43,22 +52,32 @@ included 4K monitors and SSD drives.
 
 <!-- A poster at the conference for the winning entry. Depending on availability, other teams may be invited to submit a poster. -->
 
+
+
+
 # Dates
 
 <!-- We will be following the process of the last years. There might be slight changes but the plan is this: -->
 
-The approximate timeline is:
+The contest timeline is:
 
 | Date | Event |
 | -- | -- |
-| Late October, 2020 | Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020 |
+| ~~Late October, 2020~~ | ~~Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020~~ |
 | July 31, 2021 | Deadline for Contest entry submissions|
 | August 31, 2021 | Winning team notification |
 | Late October, 2021 | Official announcement of the results at IEEE Vis 2021 |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
 
+
+
+
+
 # Judges
+
+<!-- Describe the jury and the review process. A typical jury consists of 6 reviewers: three domain scientists and three -->
+<!-- people from vis (including AR). -->
 
 Details will be provided shortly.
 
