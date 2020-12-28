@@ -7,9 +7,12 @@ author = "WestGrid"
 *The 2021 IEEE SciVis Contest is dedicated to creating novel approaches and state-of-the-art visualizations to assist
 domain scientists to better understand the convection processes in the Earth's mantle. Contest participants will be
 invited to present at the special SciVis Contest session at IEEE Vis 2021 on October 23 - 28, 2021 [^1], and the top
-team will be invited to submit a full journal article (with an expedited review process) to the IEEE Computer Graphics
-and Applications Journal. The contest is sponsored by [IEEE Vis](http://ieeevis.org) and
+team will be invited to submit a full journal article (with an expedited review process) to IEEE Computer Graphics and
+Applications (CG&A) Journal. The contest is sponsored by [IEEE Vis](http://ieeevis.org) and
 [Compute Canada](https://www.computecanada.ca).*
+
+<!-- It is expected that the contest winner(s) will submit a full journal article to IEEE Computer Graphics and Applications -->
+<!-- (CG&A). -->
 
 <!-- A poster at the conference for the winning entry. Depending on availability, other teams may get a poster. This has to -->
 <!-- be coordinated with the respective poster chairs and will be offered at their discretion. -->
