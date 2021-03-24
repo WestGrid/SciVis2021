@@ -6,7 +6,7 @@ aliases = ["submission"]
 author = "WestGrid"
 +++
 
-We will post the submission guidelines as we get closer to July-31 submission deadline (see below).
+We will post the submission guidelines as we get closer to July-31 submission deadline (see below), likely in May 2021.
 
 
 
@@ -59,6 +59,7 @@ The contest timeline is:
 | ~~Late October, 2020~~ | ~~Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020~~ |
 | July 31, 2021 | Deadline for Contest entry submissions|
 | August 31, 2021 | Winning team notification |
+| September 21, 2021 | Deadline for pre-recorded video presentations |
 | Late October, 2021 | Official announcement of the results at IEEE Vis 2021 |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
@@ -79,11 +80,16 @@ Details will be provided shortly.
 <!-- - Yohai Meiron, HPC Analyst, SciNet / Compute Canada -->
 <!-- - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto -->
 <!-- - how about Marcelo? -->
+<!-- some judges from https://kaust-vislab.github.io/SciVis2020/submission.html -->
 <!-- - how about Thomas Theußl and Silvio Rizzi, and anyone they could enlist -->
 <!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
 
 
 
+
+<!-- VIS 2021 SciVis Contest CHAIRS -->
+<!-- Alex Razoumov, WestGrid -->
+<!-- Thomas Theußl, KAUST  -->
 
 
 
