@@ -38,11 +38,15 @@ We will post the submission guidelines in May 2021, as we get closer to July-31 
 
 # Prizes
 
-We will provide prizes to the winning team(s) -- one prize per team. Compute Canada's *Visualize This!* past prizes
-included 4K monitors and SSD drives.
+This year, due to the pandemic and the recent decision to hold the IEEE Vis Conference virtually, we will not be able to
+give out prizes, as is normally done in-person at the conference.
 
+
+
+
+<!-- Compute Canada's previous *Visualize This!* prizes included 4K monitors and SSD drives. -->
+<!-- Normally providing prizes to the winning team(s) -- one prize per team.  -->
 <!-- All submissions, subject to review, will be featured in the conference USB stick. -->
-
 <!-- A poster at the conference for the winning entry. Depending on availability, other teams may be invited to submit a poster. -->
 
 
