@@ -26,6 +26,7 @@ We will post the submission guidelines in May 2021, as we get closer to July-31 
 <!-- - Sign in or create an account -->
 <!-- - Read and accept the privacy policy and terms and conditions -->
 <!-- - Once the account is created, go to the submit tab and choose the following: -->
+<!-- *** provide a screenshot *** -->
 <!-- - Edit the submission with your data and record the changes -->
 
 <!-- The review process will be single or double blind, we leave it to the discretion of the authors whether they want to -->
@@ -81,8 +82,8 @@ Full list will be provided shortly.
 
 - Alex Razoumov, Training and Visualization Specialist, WestGrid / Compute Canada
 - Thomas Theußl, Visualization Scientist, King Abdullah University of Science and Technology
-
-<!-- Theresa-Marie Rhyne, editor of the Visualization Viewpoints Department for IEEE Computer Graphics & Applications Magazine, Associate Editor of IEEE Computing Now -->
+- Theresa-Marie Rhyne, editor of the Visualization Viewpoints Department for IEEE Computer Graphics & Applications
+  Magazine <!-- , Associate Editor of IEEE Computing Now -->
 
 
 <!-- - Weiguang, HPC Analyst, SHARCNET / Compute Canada -->
