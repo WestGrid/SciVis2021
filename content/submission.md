@@ -6,7 +6,7 @@ aliases = ["submission"]
 author = "WestGrid"
 +++
 
-We will post the submission guidelines as we get closer to July-31 submission deadline (see below), likely in May 2021.
+We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline.
 
 
 
@@ -73,15 +73,19 @@ The contest timeline is:
 <!-- Describe the jury and the review process. A typical jury consists of 6 reviewers: three domain scientists and three -->
 <!-- people from vis (including AR). -->
 
-Details will be provided shortly.
+Full list will be provided shortly.
 
-<!-- - Alex Razoumov, Visualization Specialist, WestGrid / Compute Canada -->
+- Alex Razoumov, Training and Visualization Specialist, WestGrid / Compute Canada
+- Thomas Theußl, Visualization Scientist, King Abdullah University of Science and Technology
+
+<!-- Theresa-Marie Rhyne, editor of the Visualization Viewpoints Department for IEEE Computer Graphics & Applications Magazine, Associate Editor of IEEE Computing Now -->
+
+
 <!-- - Weiguang, HPC Analyst, SHARCNET / Compute Canada -->
 <!-- - Yohai Meiron, HPC Analyst, SciNet / Compute Canada -->
 <!-- - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto -->
 <!-- - how about Marcelo? -->
 <!-- some judges from https://kaust-vislab.github.io/SciVis2020/submission.html -->
-<!-- - how about Thomas Theußl and Silvio Rizzi, and anyone they could enlist -->
 <!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
 
 
@@ -89,8 +93,7 @@ Details will be provided shortly.
 
 <!-- VIS 2021 SciVis Contest CHAIRS -->
 <!-- Alex Razoumov, WestGrid -->
-<!-- Thomas Theußl, KAUST  -->
-
+<!-- Madhu Srinivasan, HP -->
 
 
 <!-- 2020 panel: -->
