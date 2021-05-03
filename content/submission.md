@@ -6,20 +6,23 @@ aliases = ["submission"]
 author = "WestGrid"
 +++
 
-We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline.
+<!-- We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline. -->
 
 
+The submission deadline is July 31<sup>st</sup>, 2021. We will open submissions in early May.
 
+Your submission should include:
+- A 2-page PDF describing your visualization and analysis techniques. Focus on the techniques you used and results you
+  obtained. Do not waste space on background information or data description. Please follow the
+  [formatting guidelines for the manuscript](https://kaust-vislab.github.io/SciVis2020/submission.html) where you can
+  download LaTeX and Word templates.
+- Images that explain how your visualizations help answer the questions. The images should be appended to the 2-page
+  document (thus, your whole PDF document should have more than 2 pages). The PDF document should be no bigger than 50
+  MB in size.
+- An MPEG-4, H.264 or Quicktime video (duration at most 10 minutes) showing the system, methods, or processes in
+  action. This will be most helpful for demonstrating the effectiveness of your approach.
 
-<!-- Your submission should include: -->
-<!-- - A 2-page PDF describing your visualization and analysis techniques. Focus on the techniques you used and results you -->
-<!--   obtained. Do not waste space on background information or data descriptions. Please follow the formatting guidelines -->
-<!--   for the manuscript. (you can download LaTeX and Word templates from this site). -->
-<!-- - Images which explain how your visualizations help answering the questions. The images should be appended to the 2-page -->
-<!--   document (thus, your whole PDF document should have more than 2 pages). The PDF document should be no bigger than 50 -->
-<!--   MB in size. -->
-<!-- - An MPEG, AVI, or Quicktime video (duration at most 10 minutes) showing the system, methods, or processes in -->
-<!--   action. This will be most helpful for demonstrating the effectiveness of your approach. -->
+The complete guidelines **will be posted shortly**.
 
 <!-- To submit: -->
 <!-- - Visit https://new.precisionconference.com -->
@@ -35,6 +38,16 @@ We will post the submission guidelines in May 2021, as we get closer to July-31 
 
 
 
+Accepted submission PDFs will be published in the 2021 IEEE Vis "USB download" proceedings. We will notify authors of
+the accepted entries of any changes they need to make to their entry before publication. We will also invite these
+authors to pre-record a short video presentation for the IEEE Vis conference. The deadline for these presentations will
+be September 21<sup>st</sup>, 2021.
+
+After the conference, the top team will be invited to submit a full journal article (with an expedited review process)
+to IEEE Computer Graphics and Applications (CG&A) Journal.
+
+
+
 
 
 # Prizes
@@ -47,8 +60,10 @@ give out prizes, as is normally done in-person at the conference.
 
 <!-- Compute Canada's previous *Visualize This!* prizes included 4K monitors and SSD drives. -->
 <!-- Normally providing prizes to the winning team(s) -- one prize per team.  -->
-<!-- All submissions, subject to review, will be featured in the conference USB stick. -->
+<!-- All accepted submissions, subject to review, will be featured in the conference USB stick. -->
 <!-- A poster at the conference for the winning entry. Depending on availability, other teams may be invited to submit a poster. -->
+
+
 
 
 
