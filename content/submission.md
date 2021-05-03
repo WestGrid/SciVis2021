@@ -84,11 +84,11 @@ Full list will be provided shortly.
 - Thomas Theußl, Visualization Scientist, King Abdullah University of Science and Technology
 - Theresa-Marie Rhyne, editor of the Visualization Viewpoints Department for IEEE Computer Graphics & Applications
   Magazine <!-- , Associate Editor of IEEE Computing Now -->
+- Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto
 
 
 <!-- - Weiguang, HPC Analyst, SHARCNET / Compute Canada -->
 <!-- - Yohai Meiron, HPC Analyst, SciNet / Compute Canada -->
-<!-- - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto -->
 <!-- - how about Marcelo? -->
 <!-- some judges from https://kaust-vislab.github.io/SciVis2020/submission.html -->
 <!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
@@ -102,13 +102,8 @@ Full list will be provided shortly.
 
 
 <!-- 2020 panel: -->
-<!-- - Thomas Theußl, Visualization Scientist, King Abdullah University of Science and Technology. -->
-<!-- - Madhu Srinivasan, Scientist - Visualization and Machine Learning, Hewlett Packard Enterprise. -->
 <!-- - Guoning Chen. Associate Professor, University of Houston. -->
 <!-- - Ibrahim Hoteit, Associate Professor, King Abdullah University of Science and Technology. -->
 <!-- - Shehzad Afzal, Postdoctoral Fellow, King Abdullah University of Science and Technology. -->
 <!-- - Aneesh C. Subramanian, Assistant Professor, University of California, San Diego. -->
 <!-- - Bruce Cornuelle, Director of the Physical Oceanography Research Division, University of California, San Diego. -->
-<!-- - Silvio Rizzi, Visualization and Analysis, Argonne National Laboratory. -->
-<!-- - Theresa-Marie Rhyne, editor of the Visualization Viewpoints Department for IEEE Computer Graphics & Applications -->
-<!--   Magazine, Associate Editor of IEEE Computing Now. -->

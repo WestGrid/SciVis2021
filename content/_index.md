@@ -17,8 +17,8 @@ Applications (CG&A) Journal. The contest is sponsored by [IEEE Vis](http://ieeev
 <!-- A poster at the conference for the winning entry. Depending on availability, other teams may get a poster. This has to -->
 <!-- be coordinated with the respective poster chairs and will be offered at their discretion. -->
 
-[^1]: Due to uncertainty around COVID-19 presence in October, IEEE Vis 2021 will take place in a virtual format (same
-online format as in 2020).
+[^1]: Due to uncertainty around COVID-19 presence in October, IEEE Vis 2021 will take place in a virtual format using
+video conferencing (same online format as in 2020).
 
 <br>
 
