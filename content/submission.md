@@ -100,10 +100,12 @@ Full list will be provided shortly.
 - Theresa-Marie Rhyne, editor of the Visualization Viewpoints Department for IEEE Computer Graphics & Applications
   Magazine <!-- , Associate Editor of IEEE Computing Now -->
 - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto
+- Russell Pysklywec, Professor and Chair of Earth Sciences, University of Toronto
+- Yohai Meiron, HPC Analyst, SciNet / Compute Canada
+
 
 
 <!-- - Weiguang, HPC Analyst, SHARCNET / Compute Canada -->
-<!-- - Yohai Meiron, HPC Analyst, SciNet / Compute Canada -->
 <!-- - how about Marcelo? -->
 <!-- some judges from https://kaust-vislab.github.io/SciVis2020/submission.html -->
 <!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
