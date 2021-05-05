@@ -12,8 +12,8 @@ author = "WestGrid"
 The submission deadline is July 31<sup>st</sup>, 2021. Your submission should include:
 <!-- We will open submissions in early May. -->
 
-- A 2-page PDF describing your visualization and analysis techniques. Focus on the techniques you used and results you
-  obtained. Do not waste space on background information or data description. Please follow the
+- A 2-page PDF paper describing your visualization and analysis techniques. Focus on the techniques you used and results
+  you obtained. Do not waste space on background information or data description. Please follow the
   [formatting guidelines for the manuscript](https://kaust-vislab.github.io/SciVis2020/submission.html) where you can
   download LaTeX and Word templates.
 - Images that explain how your visualizations help answer the questions. The images should be appended to the 2-page
@@ -33,8 +33,9 @@ To submit:
 ![Submissions form](../images/submissions.png)
 1. Edit the submission with your data and record the changes.
 
-<!-- The review process will be single or double blind, we leave it to the discretion of the authors whether they want to -->
-<!-- disclose their identity in their submissions, both in the submission form and in the 2-page PDF. -->
+The review process will be single- or double-blind: we leave it to the discretion of the authors whether they want to
+disclose their identity in their submission materials (the PDF with images and the video).
+
 
 
 
