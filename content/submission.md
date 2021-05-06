@@ -9,7 +9,7 @@ author = "WestGrid"
 <!-- We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline. -->
 
 
-The submission deadline is July 31<sup>st</sup>, 2021. Your submission should include:
+The submission deadline is July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PDT). Your submission should include:
 <!-- We will open submissions in early May. -->
 
 - A 2-page PDF paper describing your visualization and analysis techniques. Focus on the techniques you used and results
