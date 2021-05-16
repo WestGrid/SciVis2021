@@ -104,10 +104,8 @@ The contest timeline is:
 - Hosein Shahnas, Research Scientist, Earth Sciences, University of Toronto
 - Russell Pysklywec, Professor and Chair of Earth Sciences, University of Toronto
 - Yohai Meiron, HPC Analyst, University of Toronto, SciNet / Compute Canada
+- Weiguang Guan, HPC Analyst, McMaster University, SHARCNET / Compute Canada
 
-
-
-<!-- - Weiguang, HPC Analyst, McMaster University, SHARCNET / Compute Canada -->
 <!-- - how about Marcelo? -->
 <!-- some judges from https://kaust-vislab.github.io/SciVis2020/submission.html -->
 <!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
