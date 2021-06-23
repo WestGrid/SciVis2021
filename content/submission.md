@@ -80,11 +80,13 @@ The contest timeline is:
 | -- | -- |
 | ~~Late October, 2020~~ | ~~Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020~~ |
 | July 31, 2021 | Deadline for Contest entry submissions|
-| August 31, 2021 | Winning team notification |
+| August 15, 2021 | Accepted submissions will be invited to submit an *optional* 30-second video preview |
+| August 31, 2021 | Winning team notification; all accepted teams will be invited to submit a video presentation for the SciVis Contest session at IEEE Vis 2021 conference |
 | September 21, 2021 | Deadline for pre-recorded video presentations |
-| Late October, 2021 | Official announcement of the results at IEEE Vis 2021 |
+| Late October, 2021 | Official announcement of the results at IEEE Vis 2021 conference |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
+
 
 
 
@@ -106,6 +108,6 @@ The contest timeline is:
 - Yohai Meiron, HPC Analyst, University of Toronto, SciNet / Compute Canada
 - Weiguang Guan, HPC Analyst, McMaster University, SHARCNET / Compute Canada
 
-<!-- - how about Marcelo? -->
+<!-- Marcelo on the shortlist (volunteered to judge in June 2021) -->
 <!-- some judges from https://kaust-vislab.github.io/SciVis2020/submission.html -->
-<!-- - Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
+<!-- Farhad Baratchi from ACEnet: Let me know if you need help with the contest ... always up for helping. -->
