@@ -11,10 +11,10 @@ of geological time. Each time step is 2 Myrs, and the fields are:
 
 - temperature [degrees K],
 - three Cartesian velocity components [m/s],
-- thermal conductivity [Watt/m/K],
-- thermal expansivity [1/K],
+- thermal conductivity anomaly [Watt/m/K],
+- thermal expansivity anomaly [1/K],
 - temperature anomaly [degrees K], and
-- (spin transition-induced) density anomaly [kg/m^3].
+- spin transition-induced density anomaly [kg/m^3].
 
 The simulation was performed in double precision, however, to reduce downloading time, we provide the data in single
 precision. Each file was saved in a NetCDF Climate and Forecast (CF) convention format, with each 3D scalar field being
