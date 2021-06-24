@@ -25,12 +25,12 @@ a function of latitude [degrees north], longitude [degrees east], and radius [km
 
 
 The spin transition-induced density anomaly is formally defined at the top of the second column of page 11 in Shahnas et
-al. (2011) -- paper [1] below. Without going into complex physics, you can think of it as the local anomaly
-(vs. laterally averaged) of the density with the spin transition taken into account.
+al. (2011) -- paper [1] below. Without going into complex physics, you can think of it as the local anomaly (compared to
+the laterally-averaged value) of the density with the spin transition taken into account.
 
 All four anomalies above (thermal conductivity, thermal expansivity, temperature, and spin transition-induced density)
-were computed relative to the laterally-averaged values of the respective variable and consequently will be positive in
-some regions and negative in other regions.
+were computed relative to the laterally-averaged values of the respective variables and consequently will be positive in
+some regions and negative in others.
 
 
 
