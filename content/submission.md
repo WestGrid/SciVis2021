@@ -78,11 +78,13 @@ The contest timeline is:
 
 | Date | Event |
 | -- | -- |
-| ~~Late October, 2020~~ | ~~Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020~~ |
-| ~~July 31, 2021~~ | ~~Deadline for Contest entry submissions~~ |
-| August 15, 2021 | Author notifications: accepted submissions will be invited to submit an *optional* 30-second video preview |
-| August 31, 2021 | Winning team notification; accepted teams will be invited to submit a video presentation for the SciVis Contest session at IEEE Vis 2021 conference, along with a poster for the poster session |
-| September 21, 2021 | Deadline for pre-recorded video presentations and the poster |
+| ~~Late October, 2020~~ | Official announcement of the 2021 IEEE SciVis Contest at IEEE Vis 2020 |
+| ~~July 31<sup>st</sup>, 2021~~ | Deadline for Contest entry submissions |
+| ~~August 12<sup>th</sup>, 2021~~ | Author notifications: accepted submissions are invited to submit a 7-min video presentation for the SciVis Contest session at IEEE Vis 2021 conference, along with a poster for the poster session, and an *optional* 30-second video preview |
+| August 31<sup>st</sup>, 2021 | Winning team notification |
+| September 1<sup>st</sup>, 2021 | Deadline for *optional* 30-sec video preview submission |
+| September 8<sup>th</sup>, 2021 | Deadline for poster submission and for any updates to the 2-page summary  |
+| September 21<sup>st</sup>, 2021 | Deadline for 7-min video presentation |
 | Late October, 2021 | Official announcement of the results at IEEE Vis 2021 conference |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
