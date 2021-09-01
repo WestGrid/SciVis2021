@@ -84,7 +84,7 @@ The contest timeline is:
 | ~~August 31<sup>st</sup>, 2021~~ | Winning team notification |
 | September 1<sup>st</sup>, 2021 | Deadline for *optional* 30-sec video preview submission |
 | September 8<sup>th</sup>, 2021 | Deadline for poster submission and for any updates to the 2-page summary  |
-| September 21<sup>st</sup>, 2021 | Deadline for 7-min video presentation |
+| September 21<sup>st</sup>, 2021 | Internal deadline for 7-min video presentation (Sep-26 conference deadline) |
 | Late October, 2021 | Official announcement of the results at IEEE Vis 2021 conference |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
