@@ -9,6 +9,14 @@ author = "WestGrid"
 <!-- We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline. -->
 
 
+## September 2021 update
+
+We had seven submissions this year. All submissions were accepted to be presented at the 2021 SciVis Contest session at
+[IEEE Vis](http://ieeevis.org/year/2021/welcome) on October 28<sup>th</sup>. After the session some of the submission
+details and ideas will be revealed on this website.
+
+## Contest process
+
 The submission deadline is July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PDT). Your submission should include:
 <!-- We will open submissions in early May. -->
 
@@ -82,9 +90,9 @@ The contest timeline is:
 | ~~July 31<sup>st</sup>, 2021~~ | Deadline for Contest entry submissions |
 | ~~August 12<sup>th</sup>, 2021~~ | Author notifications: accepted submissions are invited to submit a 7-min video presentation for the SciVis Contest session at IEEE Vis 2021 conference, along with a poster for the poster session, and an *optional* 30-second video preview |
 | ~~August 31<sup>st</sup>, 2021~~ | Winning team notification |
-| September 1<sup>st</sup>, 2021 | Deadline for *optional* 30-sec video preview submission |
-| September 8<sup>th</sup>, 2021 | Deadline for poster submission and for any updates to the 2-page summary  |
-| September 21<sup>st</sup>, 2021 | Internal deadline for 7-min video presentation (before Sep-26 conference deadline) |
+| ~~September 1<sup>st</sup>, 2021~~ | Deadline for *optional* 30-sec video preview submission |
+| ~~September 8<sup>th</sup>, 2021~~ | Deadline for poster submission and for any updates to the 2-page summary  |
+| ~~September 21<sup>st</sup>, 2021~~ | Internal deadline for 7-min video presentation (before Sep-26 conference deadline) |
 | October 28<sup>th</sup>, 2021 | Official announcement of the results at IEEE Vis 2021 conference |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
