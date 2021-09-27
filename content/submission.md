@@ -1,5 +1,5 @@
 +++
-title = "Submission Guidelines"
+title = "Update"
 # description = "Hugo, the world’s fastest framework for building websites"
 # date = "2019-02-28"
 aliases = ["submission"]
@@ -8,14 +8,11 @@ author = "WestGrid"
 
 <!-- We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline. -->
 
-
-## September 2021 update
-
 We had seven submissions this year. All submissions were accepted to be presented at the 2021 SciVis Contest session at
 [IEEE Vis](http://ieeevis.org/year/2021/welcome) on October 28<sup>th</sup>. After the session some of the submission
 details and ideas will be revealed on this website.
 
-## Contest process
+## Submission guidelines
 
 The submission deadline is July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PDT). Your submission should include:
 <!-- We will open submissions in early May. -->
