@@ -14,7 +14,7 @@ details and ideas will be revealed on this website.
 
 ## Submission guidelines
 
-The submission deadline is July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PDT). Your submission should include:
+The submission deadline was July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PDT). Each submission had to include:
 <!-- We will open submissions in early May. -->
 
 - A 2-page PDF paper describing your visualization and analysis techniques. Focus on the techniques you used and results
@@ -25,21 +25,19 @@ The submission deadline is July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PDT
   document (thus, your whole PDF document should have more than 2 pages). The PDF document should be no bigger than 50
   MB in size.
 - An MPEG-4, H.264 or Quicktime video (duration at most 10 minutes) showing the system, methods, or processes in
-  action. This will be most helpful for demonstrating the effectiveness of your approach.
+  action. This is most helpful for demonstrating the effectiveness of your approach.
 
-<!-- The complete guidelines **will be posted shortly**. -->
+<!-- To submit: -->
 
-To submit:
+<!-- 1. Visit https://new.precisionconference.com/vgtc. -->
+<!-- 1. Sign in or create an account. -->
+<!-- 1. Read and accept the privacy policy and terms and conditions. -->
+<!-- 1. Once the account is created, go to the Submissions tab, choose the following options and press Go: -->
+<!-- ![Submissions form](../images/submissions.png) -->
+<!-- 1. Edit the submission with your data and record the changes. -->
 
-1. Visit https://new.precisionconference.com/vgtc.
-1. Sign in or create an account.
-1. Read and accept the privacy policy and terms and conditions.
-1. Once the account is created, go to the Submissions tab, choose the following options and press Go:
-![Submissions form](../images/submissions.png)
-1. Edit the submission with your data and record the changes.
-
-The review process will be single- or double-blind: we leave it to the discretion of the authors whether they want to
-disclose their identity in their submission materials (the PDF with images and the video).
+<!-- The review process will be single- or double-blind: we leave it to the discretion of the authors whether they want to -->
+<!-- disclose their identity in their submission materials (the PDF with images and the video). -->
 
 
 
