@@ -8,9 +8,9 @@ author = "WestGrid"
 
 <!-- We will post the submission guidelines in May 2021, as we get closer to July-31 submission deadline. -->
 
-We had seven submissions this year. All submissions were accepted to be presented at the 2021 SciVis Contest session at
-[IEEE Vis](http://ieeevis.org/year/2021/welcome) on October 28<sup>th</sup>. After the session some of the submission
-details and ideas will be revealed on this website.
+We had seven submissions this year. All submissions were accepted to present at the 2021 SciVis Contest session at [IEEE
+Vis](http://ieeevis.org/year/2021/welcome) on October 28<sup>th</sup>. After the session some of the submission details
+and ideas will be revealed on this website.
 
 ## Submission guidelines
 
@@ -39,39 +39,24 @@ The submission deadline was July 31<sup>st</sup>, 2021, 11:59pm Pacific Time (PD
 <!-- The review process will be single- or double-blind: we leave it to the discretion of the authors whether they want to -->
 <!-- disclose their identity in their submission materials (the PDF with images and the video). -->
 
+<!-- We will notify authors of -->
+<!-- the accepted entries of any changes they need to make to their entry before publication. We will also invite these -->
+<!-- authors to pre-record a short video presentation for the IEEE Vis conference. The deadline for these presentations will -->
+<!-- be September 21<sup>st</sup>, 2021. -->
 
-
-
-
-Accepted submission PDFs will be published in the 2021 IEEE Vis "USB download" proceedings. We will notify authors of
-the accepted entries of any changes they need to make to their entry before publication. We will also invite these
-authors to pre-record a short video presentation for the IEEE Vis conference. The deadline for these presentations will
-be September 21<sup>st</sup>, 2021.
-
-After the conference, the top team will be invited to submit a full journal article (with an expedited review process)
-to IEEE Computer Graphics and Applications (CG&A) Journal.
-
-
-
-
+Accepted submission PDFs will be published in the 2021 IEEE Vis "USB download" proceedings. After the conference, the
+top team will be invited to submit a full journal article (with an expedited review process) to IEEE Computer Graphics
+and Applications (CG&A) Journal.
 
 # Prizes
 
 This year, due to the pandemic and the recent decision to hold the IEEE Vis Conference virtually, we will not be able to
 give out prizes, as is normally done in-person at the conference.
 
-
-
-
 <!-- Compute Canada's previous *Visualize This!* prizes included 4K monitors and SSD drives. -->
 <!-- Normally providing prizes to the winning team(s) -- one prize per team.  -->
 <!-- All accepted submissions, subject to review, will be featured in the conference USB stick. -->
 <!-- A poster at the conference for the winning entry. Depending on availability, other teams may be invited to submit a poster. -->
-
-
-
-
-
 
 # Dates
 
@@ -91,11 +76,6 @@ The contest timeline is:
 | October 28<sup>th</sup>, 2021 | Official announcement of the results at IEEE Vis 2021 conference |
 
 <!-- - September 21, 2021 - Deadline for pre-recorded video presentations. -->
-
-
-
-
-
 
 # Judges
 
