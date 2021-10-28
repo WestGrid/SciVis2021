@@ -1,8 +1,10 @@
 +++
-title = "Previous Contests"
+title = "All Contests"
 aliases = ["previous"]
 author = "WestGrid"
 +++
+
+[IEEE 2022 SciVis Contest](https://www.lanl.gov/projects/sciviscontest2022) is now live!
 
 The following are the links to the IEEE SciVis Contests for the respective years:
 
