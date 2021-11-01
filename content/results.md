@@ -37,7 +37,9 @@ tracer that emphasizes interactivity, with progressive volume rendering and imag
 
 ### The Innovation Award
 
-"The Innovation Award" goes to Tim von Hahn and Chris K. Mechefske from Queen's University, for a novel approach that
-does not compete directly in regular visualization categories.
+"The Innovation Award" goes to Tim von Hahn and Chris K. Mechefske from Queen's University, for using a generative
+adversarial network (GAN) to create a surrogate model of the Contest dataset that captures most of the features of the
+original data. This approach does not compete directly in regular visualization categories, but it is so unique that we
+decided to give it a special award.
 
 ![interactive volume visualization with CosmoScout VR](../images/timVonHahn-originalVsSurrogate.png)
