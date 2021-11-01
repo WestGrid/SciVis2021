@@ -6,7 +6,7 @@ author = "WestGrid"
 
 [IEEE 2022 SciVis Contest](https://www.lanl.gov/projects/sciviscontest2022) is now live!
 
-The following are the links to the IEEE SciVis Contests for the respective years:
+The following are the links to the previous IEEE SciVis Contests:
 
 - [2020](https://kaust-vislab.github.io/SciVis2020/index.html): Transport mechanisms of eddies in the Red Sea
   - check the [Results](https://kaust-vislab.github.io/SciVis2020/results.html) section to see the winning entry

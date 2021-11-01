@@ -24,16 +24,21 @@ menu:
     title: Submission
     url: /submission/
     weight: 4
+  - identifier: results
+    name: Results
+    title: Results
+    url: /results/
+    weight: 5
   - identifier: previous
-    name: Previous Contests
+    name: Annual
     title: Previous Contests
     url: /previous/
-    weight: 5
+    weight: 6
   - identifier: contact
     name: "📬"
     title: Contact
     url: /contact/
-    weight: 6
+    weight: 7
 
 params:
   author: ""

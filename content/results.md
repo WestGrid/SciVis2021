@@ -1,0 +1,43 @@
++++
+title = "Results"
+aliases = ["results"]
+author = "WestGrid"
++++
+
+<!-- All presentations are available via https://youtu.be/xxx. -->
+
+### First Place Award
+
+"First Place Award" goes to Tim McGraw and Michael Eddy from Purdue University, for best identification of flow
+features, excellent comprehensive visualization and new ways to study convective flow.
+
+![Thermal expansivity and temperature anomalies](../images/timMcGraw-splitView.png)
+![Plume shown as tubes](../images/timMcGraw-tubes.png)
+
+The team will be invited to submit a full journal article to IEEE Computer Graphics and Applications (CG&A) Journal.
+
+### Best Cover Visualization
+
+"Best Cover Visualization" award goes to Lucas Temor (Univ. of Toronto), Peter Coppin (OCAD University), and David
+Steinman (Univ. of Toronto), for using the 3D cartographic projection to provide a full and immersive view of the mantle
+processes that is not possible in the conventional 3D spherical geometry, and for using warped planes in the same
+projection to show several variables side-by-side.
+
+![Unwrapping 3D spherical geometry](../images/lucasTemor-3dMollweide.png)
+![State variables shown as warped planes](../images/lucasTemor-warpedSurfaces.png)
+
+### Best Interactive Visualization System
+
+"Best Interactive Visualization System" award goes to Jonathan Fritsch, Simon Schneegans, Markus Flatken,
+Prof. Dr. Andreas Gerndt, Dr. Ana-Catalina Plesa, and Dr. Christian Hüttig from the German Aerospace Center, for the ray
+tracer that emphasizes interactivity, with progressive volume rendering and image warping.
+
+![interactive volume visualization with CosmoScout VR](../images/jonathanFritsch-interactive.png)
+![interactive volume visualization with CosmoScout VR](../images/jonathanFritsch-interactive2.png)
+
+### The Innovation Award
+
+"The Innovation Award" goes to Tim von Hahn and Chris K. Mechefske from Queen's University, for a novel approach that
+does not compete directly in regular visualization categories.
+
+![interactive volume visualization with CosmoScout VR](../images/timVonHahn-originalVsSurrogate.png)
