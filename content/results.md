@@ -16,6 +16,8 @@ features, excellent comprehensive visualization and new ways to study convective
 
 The team will be invited to submit a full journal article to IEEE Computer Graphics and Applications (CG&A) Journal.
 
+The full presentation is available [here](https://youtu.be/FzW24hbl6q8).
+
 ### Best Cover Visualization
 
 "Best Cover Visualization" award goes to Lucas Temor (Univ. of Toronto), Peter Coppin (OCAD University), and David
@@ -26,6 +28,9 @@ projection to show several variables side-by-side.
 ![Unwrapping 3D spherical geometry](../images/lucasTemor-3dMollweide.png)
 ![State variables shown as warped planes](../images/lucasTemor-warpedSurfaces.png)
 
+The full presentation is available [here](https://youtu.be/dvNZkvMp390).
+
+
 ### Best Interactive Visualization System
 
 "Best Interactive Visualization System" award goes to Jonathan Fritsch, Simon Schneegans, Markus Flatken,
@@ -35,6 +40,8 @@ tracer that emphasizes interactivity, with progressive volume rendering and imag
 ![interactive volume visualization with CosmoScout VR](../images/jonathanFritsch-interactive.png)
 ![interactive volume visualization with CosmoScout VR](../images/jonathanFritsch-interactive2.png)
 
+The full presentation is available [here](https://youtu.be/QmT5zZ_zwkw).
+
 ### The Innovation Award
 
 "The Innovation Award" goes to Tim von Hahn and Chris K. Mechefske from Queen's University, for using a generative
@@ -43,3 +50,5 @@ original data. This approach does not compete directly in regular visualization 
 decided to give it a special award.
 
 ![interactive volume visualization with CosmoScout VR](../images/timVonHahn-originalVsSurrogate.png)
+
+The full presentation is available [here](https://youtu.be/HAt8huF3CIY).
