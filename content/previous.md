@@ -6,8 +6,9 @@ author = "WestGrid"
 
 <!-- -[IEEE 2023 SciVis Contest](link) is now live! -->
 
-The following are the links to all previous IEEE SciVis Contests:
+The following are the links to all IEEE SciVis Contests:
 
+- [2023](https://sciviscontest2023.github.io): Plasticity changes in the human brain
 - [2022](https://www.lanl.gov/projects/sciviscontest2022): Vorticity-driven lateral spread phenomena in wildfires
 - [2021](..) Earth's mantle convection (this site)
 - [2020](https://kaust-vislab.github.io/SciVis2020/index.html): Transport mechanisms of eddies in the Red Sea
