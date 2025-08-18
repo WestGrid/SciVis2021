@@ -2,7 +2,8 @@ languageCode: "en-us"
 baseUrl: "/"
 title: "SciVis Contest 2021"
 theme: "anubis"
-paginate: 10
+pagination:
+  pagerSize: 10
 # disqusShortname: yourdiscussshortname
 # googleAnalytics: UA-123-45
 enableRobotsTXT: true
