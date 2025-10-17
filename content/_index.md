@@ -22,7 +22,7 @@ Applications (CG&A) Journal. The contest is sponsored by [IEEE Vis](http://ieeev
 
 <br>
 
-{{< vimeo 459406913 >}}
+{{< yt CDPwd6__nhU 72 >}}
 <p style="line-height: 1.2;"> <font size="3"> <b>Figure 1:</b> Temperature and velocity over the first 200 Myrs of the
 simulation. Click <a href="https://vimeo.com/459406913" target="_blank">here</a> to watch this video directly on
 Vimeo. </font> </p>
